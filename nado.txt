@@ -1,0 +1,19 @@
+
+	css 余白
+		http://open.shonan.bunkyo.ac.jp/~ohtan/kouza/css-margin.html
+	HTMLタグの書式と各部の名称
+		https://qiita.com/hikotaro_san/items/7f8203afa077b0668a29
+	正規表現 エスケープ
+		\ * + .  ? { }  ( ) [ ] ^ $ - | /
+		https://qiita.com/katsukii/items/1c1550f064b4686c04d4
+		[a-zA-Z0-9]
+	正規表現 改行
+		\n|\r\n|\r
+	pixivダウンローダ
+		http://shimarisu.webcrow.jp/pixiv.html
+	ファイル名に使えない文字
+		\ / : * ? " < > |
+	urlに使える文字
+		アルファベット A-Z a-z  数字 0-9  記号 - _
+	半角記号
+		｢｣{}()[]!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~
